@@ -26,11 +26,26 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jvanwinden.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  jvanwinden
+linkedin_username: jvanwinden
+orcid: 0009-0001-1153-1961
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+minima:
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/yourusername"
+
+    - title: ORCID
+      icon: orcid
+      url: "https://orcid.org/0000-0000-0000-0000"
+
+    - title: arXiv
+      icon: file-lines
+      url: "https://arxiv.org/a/yourname.html"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
