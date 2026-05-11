@@ -29,11 +29,11 @@ I am also active in the formalization of mathematics using the Lean theorem prov
 ---------------
 
 
-# Publications
+## Publications
 {: #publications }
-See also my [google scholar](https://scholar.google.com/citations?user=fc1naEQAAAAJ) page.
+See also my [google scholar](https://scholar.google.com/citations?user=fc1naEQAAAAJ), [ORCID](https://orcid.org/0009-0001-1153-1961), and [arXiv](https://arxiv.org/a/vanwinden_j_1.html) pages.
 
-## Preprints
+### Preprints
 - <u>Stability and dynamics of planar fronts in reaction-diffusion systems under nonlocalized perturbations</u> (2026).
   [arXiv:2601.05832](https://doi.org/10.48550/arXiv.2601.05832) \
   Together with B. de Rijk.
@@ -42,7 +42,7 @@ See also my [google scholar](https://scholar.google.com/citations?user=fc1naEQAA
 [arXiv:2406.16642](https://doi.org/10.48550/arXiv.2406.16642)
 
 
-## Journal articles
+### Journal articles
 - <u>Synchronization by noise for traveling pulses</u>. \
 To appear in: __The Annals of Applied Probability__. [arXiv.2501.13565](https://doi.org/10.48550/arXiv.2501.13565)\
 Together with C. Kuehn.
@@ -56,13 +56,13 @@ __SIAM Journal on Applied Dynamical Systems__ (2025). [doi:10.1137/24M1646686](h
 Together with M.V. Gnann and R.W.S. Westdorp.
 
 
-## Dissertation
+### Dissertation
 - <u>Dynamics of patterns subject to noise</u>. \
   __Delft University of Technology__ (2026). [TU Delft repository](https://doi.org/10.4233/uuid:0cae99a1-b1f0-4ef3-84f7-9a11a11bb68c)
 
 ---
 
-# CV
+## CV
 {: #CV }
 
 ### Employment
