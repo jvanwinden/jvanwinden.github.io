@@ -4,6 +4,7 @@
 
 layout: home
 title: Joris van Winden
+description: Personal webpage of Joris van Winden
 ---
 <div class="profile-block">
   <img
