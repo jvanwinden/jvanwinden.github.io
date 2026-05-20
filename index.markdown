@@ -47,7 +47,7 @@ See also my [google scholar](https://scholar.google.com/citations?user=fc1naEQAA
 To appear in: __The Annals of Applied Probability__. [arXiv.2501.13565](https://doi.org/10.48550/arXiv.2501.13565)\
 Together with C. Kuehn.
 
-- <u>Sharp supremum and Hölder bounds for stochastic integrals indexed by a parameter</u> \
+- <u>Sharp supremum and Hölder bounds for stochastic integrals indexed by a parameter</u>. \
 To appear in: __Annales de l’Institut Henri Poincaré, Probabilités et Statistiques__. [arXiv.2409.13615](https://doi.org/10.48550/arXiv.2409.13615) \
   Together with S. Cox.
 
