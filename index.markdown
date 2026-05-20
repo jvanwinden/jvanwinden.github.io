@@ -1,6 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
 title: Joris van Winden
@@ -10,7 +8,7 @@ description: Personal webpage of Joris van Winden
   <img
     class="profile-picture-square"
     src="{{ '/assets/profile.jpg' | relative_url }}"
-    alt="Your Name"
+    alt="Joris van Winden"
   >
 <p class="profile-email">
   j.van.winden@math.leidenuniv.nl
