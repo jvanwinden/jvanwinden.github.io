@@ -22,7 +22,7 @@ I am a mathematician working at the intersection of PDE analysis, probability, a
 My main research focus is on the dynamics of pattern-forming systems when they are subject to random fluctuations.
 
 I am currently working as a postdoctoral researcher at Leiden University in the group of Hermen Jan Hupkes. 
-Previously, I did my PhD in the Analysis group of the Delft Institute of Applied Mathematics at TU Delft.
+Previously, I did my PhD in the Analysis group of the Delft Institute of Applied Mathematics at TU Delft, with Manuel Gnann as my advisor.
 
 I am also active in the formalization of mathematics using the Lean theorem prover.
 
@@ -68,7 +68,8 @@ Together with M.V. Gnann and R.W.S. Westdorp.
 ### Employment
 - __2026--now__: Postdoctoral reseacher at <u>Leiden University</u>, in the group of Hermen Jan Hupkes.
 - __2022--2026__: PhD at <u>Delft University of Technology</u>, with distinction (cum laude). \
-  Advisors: Manuel Gnann (daily advisor) and Mark Veraar (promotor).
+    Advisors: Manuel Gnann (daily advisor) and Mark Veraar (promotor). \
+    My PhD was funded by a DIAM fast-track scholarship.
 
 ### Education
 - __2020--2022__: MSc Applied Mathematics at <u>Delft University of Technology</u> (cum laude).
