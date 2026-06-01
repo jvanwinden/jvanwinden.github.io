@@ -7,7 +7,7 @@ description: Personal webpage of Joris van Winden
 <div class="profile-block">
   <img
     class="profile-picture-square"
-    src="{{ '/assets/profile.jpg' | relative_url }}"
+    src="{{ '/assets/joris_van_winden.jpg' | relative_url }}"
     alt="Joris van Winden"
   >
 <p class="profile-email">
