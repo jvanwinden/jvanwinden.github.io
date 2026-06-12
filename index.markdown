@@ -39,6 +39,9 @@ See also my [google scholar](https://scholar.google.com/citations?user=fc1naEQAA
   Together with B. de Rijk.
 
 ### Journal articles
+- <u>Noncommutative orbital stability of stochastic patterns in Banach spaces</u>.\
+To appear in: __SIAM Journal on Mathematical Analysis__. [arXiv:2406.16642](https://doi.org/10.48550/arXiv.2406.16642)
+
 - <u>Synchronization by noise for traveling pulses</u>.\
 To appear in: __The Annals of Applied Probability__. [arXiv.2501.13565](https://doi.org/10.48550/arXiv.2501.13565)\
 Together with C. Kuehn.
@@ -46,9 +49,6 @@ Together with C. Kuehn.
 - <u>Sharp supremum and Hölder bounds for stochastic integrals indexed by a parameter</u>.\
 To appear in: __Annales de l’Institut Henri Poincaré, Probabilités et Statistiques__. [arXiv.2409.13615](https://doi.org/10.48550/arXiv.2409.13615)\
   Together with S. Cox.
-
-- <u>Noncommutative orbital stability of stochastic patterns in Banach spaces</u>.\
-To appear in: __SIAM Journal on Mathematical Analysis__. [arXiv:2406.16642](https://doi.org/10.48550/arXiv.2406.16642)
 
 - <u>Solitary waves in a stochastic parametrically forced nonlinear Schrödinger equation</u>.\
 __SIAM Journal on Applied Dynamical Systems__ (2025). [doi:10.1137/24M1646686](https://doi.org/10.1137/24M1646686)\
