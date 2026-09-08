@@ -72,7 +72,7 @@ See also my [google scholar](https://scholar.google.com/citations?user=fc1naEQAA
 {: #CV }
 
 ### Employment
-- __2026--now__: Postdoctoral reseacher at <u>Leiden University</u>, in the group of Hermen Jan Hupkes.
+- __2026--now__: Postdoctoral researcher at <u>Leiden University</u>, in the group of Hermen Jan Hupkes.
 - __2022--2026__: PhD at <u>Delft University of Technology</u>, with distinction (cum laude).\
     Advisors: Manuel Gnann (daily advisor) and Mark Veraar (promotor).\
     My PhD was funded by a DIAM fast-track scholarship.
