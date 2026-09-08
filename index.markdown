@@ -21,7 +21,7 @@ description: Personal webpage of Joris van Winden
 I am a mathematician working at the intersection of PDE analysis, probability, and dynamical systems.
 My main research focus is on the dynamics of pattern-forming systems when they are subject to random fluctuations.
 
-I am currently working as a postdoctoral researcher at Leiden University in the group of [Hermen Jan Hupkes](https://pub.math.leidenuniv.nl/~hupkeshj/). 
+Currently I am a postdoctoral researcher at Leiden University in the group of [Hermen Jan Hupkes](https://pub.math.leidenuniv.nl/~hupkeshj/). 
 Previously, I did my PhD in the Analysis group of the Delft Institute of Applied Mathematics at TU Delft, with [Manuel Gnann](https://sites.google.com/view/manuelgnannpersonalhomepage/) as my advisor and [Mark Veraar](https://fa.ewi.tudelft.nl/~veraar/) as my promotor.
 
 I am also active in the formalization of mathematics using the Lean theorem prover.
@@ -31,7 +31,7 @@ I am also active in the formalization of mathematics using the Lean theorem prov
 
 ## Publications
 {: #publications }
-See also my [google scholar](https://scholar.google.com/citations?user=fc1naEQAAAAJ), [ORCID](https://orcid.org/0009-0001-1153-1961), and [arXiv](https://arxiv.org/a/vanwinden_j_1.html) pages.
+See also my [Google Scholar](https://scholar.google.com/citations?user=fc1naEQAAAAJ), [arXiv](https://arxiv.org/a/vanwinden_j_1.html), and [ORCID](https://orcid.org/0009-0001-1153-1961) profiles.
 
 ### Preprints
 - _Stability and dynamics of planar fronts in reaction-diffusion systems under nonlocalized perturbations_ (2026). \
