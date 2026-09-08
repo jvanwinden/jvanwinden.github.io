@@ -34,27 +34,27 @@ I am also active in the formalization of mathematics using the Lean theorem prov
 See also my [google scholar](https://scholar.google.com/citations?user=fc1naEQAAAAJ), [ORCID](https://orcid.org/0009-0001-1153-1961), and [arXiv](https://arxiv.org/a/vanwinden_j_1.html) pages.
 
 ### Preprints
-- <u>Stability and dynamics of planar fronts in reaction-diffusion systems under nonlocalized perturbations</u> (2026). \
+- _Stability and dynamics of planar fronts in reaction-diffusion systems under nonlocalized perturbations_ (2026). \
   Together with B. de Rijk. \
   [`arXiv:2601.05832`](https://doi.org/10.48550/arXiv.2601.05832)
 
 ### Journal articles
-- <u>Noncommutative orbital stability of stochastic patterns in Banach spaces</u>.\
+- _Noncommutative orbital stability of stochastic patterns in Banach spaces_.\
   To appear in: __SIAM Journal on Mathematical Analysis__. \
   [`arXiv:2406.16642`](https://doi.org/10.48550/arXiv.2406.16642)
 
-- <u>Sharp supremum and Hölder bounds for stochastic integrals indexed by a parameter</u>. \
+- _Sharp supremum and Hölder bounds for stochastic integrals indexed by a parameter_. \
   To appear in: __Annales de l’Institut Henri Poincaré, Probabilités et Statistiques__. \
   Together with S. Cox. \
   [`arXiv:2409.13615`](https://doi.org/10.48550/arXiv.2409.13615)
 
-- <u>Synchronization by noise for traveling pulses</u>. \
+- _Synchronization by noise for traveling pulses_. \
   __The Annals of Applied Probability__ (2026). \
   Together with C. Kuehn. \
   [`doi:10.1214/26-AAP2308`](https://doi.org/10.1214/26-AAP2308)
   [`arXiv:2501.13565`](https://doi.org/10.48550/arXiv.2501.13565)
 
-- <u>Solitary waves in a stochastic parametrically forced nonlinear Schrödinger equation</u>. \
+- _Solitary waves in a stochastic parametrically forced nonlinear Schrödinger equation_. \
   __SIAM Journal on Applied Dynamical Systems__ (2025). \
   Together with M.V. Gnann and R.W.S. Westdorp. \
   [`doi:10.1137/24M1646686`](https://doi.org/10.1137/24M1646686)
@@ -62,7 +62,7 @@ See also my [google scholar](https://scholar.google.com/citations?user=fc1naEQAA
 
 
 ### Dissertation
-- <u>Dynamics of patterns subject to noise</u>.\
+- _Dynamics of patterns subject to noise_.\
   __Delft University of Technology__ (2026). \
   [`TU Delft repository`](https://doi.org/10.4233/uuid:0cae99a1-b1f0-4ef3-84f7-9a11a11bb68c)
 
