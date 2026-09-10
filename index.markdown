@@ -34,6 +34,10 @@ I am also active in the formalization of mathematics using the Lean theorem prov
 See also my [Google Scholar](https://scholar.google.com/citations?user=fc1naEQAAAAJ), [arXiv](https://arxiv.org/a/vanwinden_j_1.html), and [ORCID](https://orcid.org/0009-0001-1153-1961) profiles.
 
 ### Preprints
+- _The Schrödinger equation with fluctuating nonlinearity in the energy space_ (2026). \
+  Together with M. Sauerbrey. \
+  [`arXiv:2609.10417`](https://doi.org/10.48550/arXiv.2609.10417)
+
 - _Stability and dynamics of planar fronts in reaction-diffusion systems under nonlocalized perturbations_ (2026). \
   Together with B. de Rijk. \
   [`arXiv:2601.05832`](https://doi.org/10.48550/arXiv.2601.05832)
@@ -51,14 +55,14 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=fc1naEQAA
 - _Synchronization by noise for traveling pulses_. \
   __The Annals of Applied Probability__ (2026). \
   Together with C. Kuehn. \
-  [`doi:10.1214/26-AAP2308`](https://doi.org/10.1214/26-AAP2308)
   [`arXiv:2501.13565`](https://doi.org/10.48550/arXiv.2501.13565)
+  [`doi:10.1214/26-AAP2308`](https://doi.org/10.1214/26-AAP2308)
 
 - _Solitary waves in a stochastic parametrically forced nonlinear Schrödinger equation_. \
   __SIAM Journal on Applied Dynamical Systems__ (2025). \
   Together with M.V. Gnann and R.W.S. Westdorp. \
-  [`doi:10.1137/24M1646686`](https://doi.org/10.1137/24M1646686)
   [`arXiv:2403.04625`](https://doi.org/10.48550/arXiv.2403.04625)
+  [`doi:10.1137/24M1646686`](https://doi.org/10.1137/24M1646686)
 
 
 ### Dissertation
