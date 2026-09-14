@@ -34,6 +34,10 @@ I am also active in the formalization of mathematics using the Lean theorem prov
 See also my [Google Scholar](https://scholar.google.com/citations?user=fc1naEQAAAAJ), [arXiv](https://arxiv.org/a/vanwinden_j_1.html), and [ORCID](https://orcid.org/0009-0001-1153-1961) profiles.
 
 ### Preprints
+- _No free lunch for continuity of stochastic convolutions_ (2026). \
+  Together with M. Veraar. \
+  [`arXiv:2609.12688`](https://doi.org/10.48550/arXiv.2609.12688)
+
 - _The Schrödinger equation with fluctuating nonlinearity in the energy space_ (2026). \
   Together with M. Sauerbrey. \
   [`arXiv:2609.10417`](https://doi.org/10.48550/arXiv.2609.10417)
