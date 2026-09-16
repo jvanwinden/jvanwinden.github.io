@@ -10,12 +10,8 @@ description: Personal webpage of Joris van Winden
     src="{{ '/assets/joris_van_winden.jpg' | relative_url }}"
     alt="Joris van Winden"
   >
-<p class="profile-email">
-  j.van.winden@math.leidenuniv.nl
-</p>
-<p class="profile-address">
-    Gorlaeus BW.2.13, Einsteinweg 55, Leiden
-</p>
+<p class="profile-email">j.van.winden@math.leidenuniv.nl</p>
+<p class="profile-address">Gorlaeus BW.2.13, Einsteinweg 55, Leiden</p>
 </div>
 
 I am a mathematician working at the intersection of PDE analysis, probability, and dynamical systems.

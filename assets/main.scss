@@ -13,6 +13,10 @@ hr {
   margin-bottom: 1.5rem;
 }
 
+a:visited code {
+  color: inherit;
+}
+
 .profile-block {
   float: right;
   width: 300px;
@@ -40,6 +44,10 @@ hr {
   font-family: monospace;
 }
 
-a:visited code {
-  color: inherit;
+@media (max-width: 650px) {
+  .profile-block {
+    float: none;
+    margin: 0 auto 1rem;
+    max-width: 100%;
+  }
 }
