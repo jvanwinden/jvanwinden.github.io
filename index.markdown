@@ -43,14 +43,16 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=fc1naEQAA
   [`arXiv:2601.05832`](https://doi.org/10.48550/arXiv.2601.05832)
 
 ### Journal articles
-- _Noncommutative orbital stability of stochastic patterns in Banach spaces_.\
-  To appear in: __SIAM Journal on Mathematical Analysis__. \
-  [`arXiv:2406.16642`](https://doi.org/10.48550/arXiv.2406.16642)
 
 - _Sharp supremum and Hölder bounds for stochastic integrals indexed by a parameter_. \
   To appear in: __Annales de l’Institut Henri Poincaré, Probabilités et Statistiques__. \
   Together with S. Cox. \
   [`arXiv:2409.13615`](https://doi.org/10.48550/arXiv.2409.13615)
+
+- _Noncommutative orbital stability of stochastic patterns in Banach spaces_.\
+  __SIAM Journal on Mathematical Analysis__ (2026). \
+  [`arXiv:2406.16642`](https://doi.org/10.48550/arXiv.2406.16642)
+  [`doi:10.1137/24M167161X`](https://doi.org/10.1137/24M167161X)
 
 - _Synchronization by noise for traveling pulses_. \
   __The Annals of Applied Probability__ (2026). \
