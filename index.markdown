@@ -30,46 +30,46 @@ I am also active in the formalization of mathematics using the Lean theorem prov
 See also my [Google Scholar](https://scholar.google.com/citations?user=fc1naEQAAAAJ), [arXiv](https://arxiv.org/a/vanwinden_j_1.html), and [ORCID](https://orcid.org/0009-0001-1153-1961) profiles.
 
 ### Preprints
-- _No free lunch for continuity of stochastic convolutions_ (2026). \
-  Together with M. Veraar. \
+- _No free lunch for continuity of stochastic convolutions_ (2026).\
+  Together with M. Veraar.\
   [`arXiv:2609.12688`](https://doi.org/10.48550/arXiv.2609.12688)
 
-- _The Schrödinger equation with fluctuating nonlinearity in the energy space_ (2026). \
-  Together with M. Sauerbrey. \
+- _The Schrödinger equation with fluctuating nonlinearity in the energy space_ (2026).\
+  Together with M. Sauerbrey.\
   [`arXiv:2609.10417`](https://doi.org/10.48550/arXiv.2609.10417)
 
-- _Stability and dynamics of planar fronts in reaction-diffusion systems under nonlocalized perturbations_ (2026). \
-  Together with B. de Rijk. \
+- _Stability and dynamics of planar fronts in reaction-diffusion systems under nonlocalized perturbations_ (2026).\
+  Together with B. de Rijk.\
   [`arXiv:2601.05832`](https://doi.org/10.48550/arXiv.2601.05832)
 
 ### Journal articles
 
-- _Sharp supremum and Hölder bounds for stochastic integrals indexed by a parameter_. \
-  To appear in: __Annales de l’Institut Henri Poincaré, Probabilités et Statistiques__. \
-  Together with S. Cox. \
+- _Sharp supremum and Hölder bounds for stochastic integrals indexed by a parameter_.\
+  To appear in: __Annales de l’Institut Henri Poincaré, Probabilités et Statistiques__.\
+  Together with S. Cox.\
   [`arXiv:2409.13615`](https://doi.org/10.48550/arXiv.2409.13615)
 
 - _Noncommutative orbital stability of stochastic patterns in Banach spaces_.\
-  __SIAM Journal on Mathematical Analysis__ (2026). \
+  __SIAM Journal on Mathematical Analysis__ (2026).\
   [`arXiv:2406.16642`](https://doi.org/10.48550/arXiv.2406.16642)
   [`doi:10.1137/24M167161X`](https://doi.org/10.1137/24M167161X)
 
-- _Synchronization by noise for traveling pulses_. \
-  __The Annals of Applied Probability__ (2026). \
-  Together with C. Kuehn. \
+- _Synchronization by noise for traveling pulses_.\
+  __The Annals of Applied Probability__ (2026).\
+  Together with C. Kuehn.\
   [`arXiv:2501.13565`](https://doi.org/10.48550/arXiv.2501.13565)
   [`doi:10.1214/26-AAP2308`](https://doi.org/10.1214/26-AAP2308)
 
-- _Solitary waves in a stochastic parametrically forced nonlinear Schrödinger equation_. \
-  __SIAM Journal on Applied Dynamical Systems__ (2025). \
-  Together with M.V. Gnann and R.W.S. Westdorp. \
+- _Solitary waves in a stochastic parametrically forced nonlinear Schrödinger equation_.\
+  __SIAM Journal on Applied Dynamical Systems__ (2025).\
+  Together with M.V. Gnann and R.W.S. Westdorp.\
   [`arXiv:2403.04625`](https://doi.org/10.48550/arXiv.2403.04625)
   [`doi:10.1137/24M1646686`](https://doi.org/10.1137/24M1646686)
 
 
 ### Dissertation
 - _Dynamics of patterns subject to noise_.\
-  __Delft University of Technology__ (2026). \
+  __Delft University of Technology__ (2026).\
   [`TU Delft repository`](https://doi.org/10.4233/uuid:0cae99a1-b1f0-4ef3-84f7-9a11a11bb68c)
 
 ---
