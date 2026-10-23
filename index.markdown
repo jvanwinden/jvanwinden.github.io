@@ -30,6 +30,9 @@ I am also active in the formalization of mathematics using the Lean theorem prov
 {: #publications }
 See also my [Google Scholar](https://scholar.google.com/citations?user=fc1naEQAAAAJ), [arXiv](https://arxiv.org/a/vanwinden_j_1.html), and [ORCID](https://orcid.org/0009-0001-1153-1961) profiles.
 
+Some of my articles have associated formalizations in Lean. 
+The formal statements are recorded at the [Palomar](https://palomar-registry.org/) registry.
+
 ### Preprints
 - _No free lunch for continuity of stochastic convolutions_ (2026).\
   Together with M. Veraar.\
@@ -42,6 +45,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=fc1naEQAA
 - _Stability and dynamics of planar fronts in reaction-diffusion systems under nonlocalized perturbations_ (2026).\
   Together with B. de Rijk.\
   [`arXiv:2601.05832`](https://doi.org/10.48550/arXiv.2601.05832)
+  [`PALOMAR-2026-10-23-000005`](https://palomar-registry.org/entry?id=PALOMAR-2026-10-23-000005)
 
 ### Journal articles
 
