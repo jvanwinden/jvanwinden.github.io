@@ -21,7 +21,7 @@ Currently I am a postdoctoral researcher at Leiden University in the group of [H
 Previously, I did my PhD in the Analysis group of the Delft Institute of Applied Mathematics at TU Delft, with [Manuel Gnann](https://sites.google.com/view/manuelgnannpersonalhomepage/) as my advisor and [Mark Veraar](https://fa.ewi.tudelft.nl/~veraar/) as my promotor.
 
 I am also active in the formalization of mathematics using the Lean theorem prover. 
-An (auto-)formalization of one of my recent articles can be found [here](https://github.com/jvanwinden/PlanarFrontStability).
+(Auto-)formalizations of some of my recent articles can be found [here](https://github.com/jvanwinden/PlanarFrontStability) and [here](https://github.com/jvanwinden/StochasticConvolution).
 
 ---------------
 
