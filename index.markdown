@@ -37,6 +37,7 @@ The formal statements are recorded at the [Palomar](https://palomar-registry.org
 - _No free lunch for continuity of stochastic convolutions_ (2026).\
   Together with M. Veraar.\
   [`arXiv:2609.12688`](https://doi.org/10.48550/arXiv.2609.12688)
+  [`PALOMAR-2026-10-27-000013`](https://palomar-registry.org/entry.html?id=PALOMAR-2026-10-27-000013)
 
 - _The Schrödinger equation with fluctuating nonlinearity in the energy space_ (2026).\
   Together with M. Sauerbrey.\
